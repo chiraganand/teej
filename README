@@ -1,0 +1,29 @@
+Organising your work.
+
+* Objectives
+  - I should be able to differentiate between high/low priority tasks.
+  - I should know what I will do every day: scheduled crons and other
+    tasks on that day.
+  - Do short term and long term planning wrt projects.
+  - Get reminders.
+  - Aggregate multiple channels of information in one location.
+
+* Features
+** 0.1
+   - Create new tasks.
+   - Tag each task with the project name.
+   - Tag with category name: have to do, should do, and want to do.
+   - Sub-tasks.
+   - Define long term goals (3-months/1-year) with short-term deliverables.
+   - End dates for tasks.
+   - Possibly command line integration: add/modify tasks.
+
+** 0.2
+   - Handle multi-channels as descriptions for tasks: Gmail, Redmine,
+     Google Calendar.
+   - Automatic forwarding of schedules based on modification of end
+    dates. Perhaps by maintaining an index of all dates, rather than
+    defining one-one relationship between tasks.
+   - Handle short-term things in the middle of long-term plans.
+   - Add reminders on forgotten tasks.
+
